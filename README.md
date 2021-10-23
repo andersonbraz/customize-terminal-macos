@@ -29,15 +29,22 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 ### 3.1. Configurar Plugins
 
 ```shell
-plugins={
+plugins=(
     git
     docker
     zsh-syntax-highlighting
     zsh-autosuggestions
-}
+)
 ```
 
+## 4. Alterar Fonte / Tipografia do seu terminal
 
-## Reference
+- Abra o Terminal
+- Vá em Preferências
+- Em Fonte selecione "Inconsolata for Powerline"
+
+## Referências
 
 [How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
+
+[Top 10 Oh My Zsh Plugins For Productive Developers](https://travis.media/top-10-oh-my-zsh-plugins-for-productive-developers/)
