@@ -36,3 +36,8 @@ plugins={
     zsh-autosuggestions
 }
 ```
+
+
+## Reference
+
+[How to Configure your macOs Terminal with Zsh like a Pro](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
