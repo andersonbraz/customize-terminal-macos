@@ -3,7 +3,7 @@
 ## 1. Baixar Script de Customização
 
 ```shell
-git clone https://github.com/andersonbraz/customize-teminal-macos.git
+git clone https://github.com/andersonbraz/customize-terminal-macos.git
 cd customize-teminal-macos
 ```
 
